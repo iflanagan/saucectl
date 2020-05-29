@@ -10,5 +10,5 @@ metadata:
 files:
   - ./tests/puppeteerlogin.test.js
 image:
-  base: saucelabs/sauce-puppeteer-runner
-  version: latest
+  base: saucelabs/sauce-puppeteer
+  version: 3.0.4
