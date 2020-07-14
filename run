@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "starting test"
+
+saucectl new | echo -e  "\u193"; saucectl run
